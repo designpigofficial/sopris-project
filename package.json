@@ -1,7 +1,9 @@
 {
   "name": "sopris-project",
-  "version": "1.0.0",
+  "version": "0.9.0",
   "main": "index.js",
   "author": "designpig",
-  "license": "none"
+  "license": "none",
+  "description": "Energy For The Future",
+  "repository": "https://github.com/designpigofficial/sopris-project.git"
 }
