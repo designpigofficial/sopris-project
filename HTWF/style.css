@@ -26,7 +26,7 @@ body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, .list-
     font-family: "Roboto",Helvetica,Arial,sans-serif;
     font-size: 13px;
     line-height: 1.42857143;
-    color: #4C4C4C;
+    color: #E0E0E0;
 }
 
 .text-color, .mi-menu ul li > a:before, .sidebar-nav .panel-item > span:before, i.icon, .block-infos .bd-day {
@@ -43,7 +43,7 @@ body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, .list-
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #fff;
+    background-color: #303030;
     z-index: 99995;
 }
 
@@ -63,7 +63,7 @@ body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, .list-
 
 .scroll-top-mobile {
     position: fixed;
-    background: #fff;
+    background: #303030;
     width: 40px;
     height: 40px;
     z-index: 995;
@@ -617,7 +617,7 @@ body.boxed-layout {
 }
 
 .boxed-layout .overlay-content .section-empty:not(.section-bg-color) {
-    background: #fff !important;
+    background: #303030 !important;
 }
 
 .col-center {
@@ -819,11 +819,11 @@ BOXED AND BOXED INVERSE
 }
 
 [class*="col-md-"].boxed-inverse, .boxed-inverse, .fixed-area.boxed-inverse {
-    background-color: #f5f5f5;
+    background-color: #303030;
 }
 
 .section-bg-color [class*="col-md-"].boxed-inverse, .fixed-area.boxed-inverse {
-    background-color: #fff;
+    background-color: #303030;
 }
 
 [class*="col-md-"].boxed {
@@ -860,17 +860,17 @@ header {
 }
 
 header .btn-default, header .btn, header .anima-button.circle-button, header .input-group .btn:not(.btn-border) {
-    background-color: #FAFAFA;
-    color: #797979;
+    background-color: #101010;
+    color: #e0e0e0;
 }
 
     header .btn-default:hover, header .circle-button:hover {
-        border-color: #D2D2D2;
-        background-color: #e6e6e6;
+        border-color: #00af9a;
+        background-color: #101010;
     }
 
 .navbar-default .navbar-nav > li > a, .mega-menu h5 {
-    color: #444;
+    color: #e0e0e0;
 }
 
 .nav > li.dropdown > a {
@@ -1074,7 +1074,7 @@ div.full-width-menu .inner .dropdown-submenu:hover > a:after, div.full-width-men
 }
 
 header .scroll-css .search-box {
-    background-color: #fff !important;
+    background-color: #303030 !important;
 }
 
 .navbar-social {
@@ -1512,7 +1512,7 @@ MINIMAL DESIGN
 
 .nav.ms-minimal > li .dropdown-menu {
     border-radius: 0;
-    background-color: #FFF;
+    background-color: #303030;
     border: 1px solid rgba(255,255,255,0);
 }
 
@@ -1590,7 +1590,7 @@ SHOP MENU
     right: -16px;
     width: 320px;
     text-align: center;
-    background-color: #fff;
+    background-color: #303030;
     transition: all .4s ease;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
     opacity: 0;
@@ -2316,7 +2316,7 @@ header.side-menu-lateral .mi-menu .sidebar-nav ul ul a, .mi-menu .sidebar-nav li
 }
 
 .post-template-default .sidebar-cnt, .page-template-default .sidebar-cnt, .footer-parallax-container .comments-cnt, .footer-parallax-container .footer-parallax-container {
-    background-color: #fff;
+    background-color: #303030;
 }
 
 .sidebar-cnt .comments-cnt > .container {
@@ -2578,7 +2578,7 @@ footer .container {
 }
 
 footer .social-group i {
-    color: #4C4C4C;
+    color: #E0E0E0;
 }
 
 .copy-row .col-md-12 {
@@ -2664,7 +2664,7 @@ footer.footer-center .content {
 }
 
 .footer-center .footer-title {
-    color: #4C4C4C;
+    color: #E0E0E0;
     margin-bottom: 20px;
     font-weight: 600;
 }
@@ -4651,7 +4651,7 @@ IMAGE BOX
 }
 
     .img-box.thumbnail .caption {
-        background-color: #FFF;
+        background-color: #303030;
     }
 
     .img-box.adv-img:hover {
@@ -4824,7 +4824,7 @@ IMAGE BOX
     text-align: center;
     padding: 7px 7px 0 7px;
     color: #676767;
-    background-color: #FFF;
+    background-color: #303030;
     z-index: 9;
     position: relative;
 }
@@ -5140,7 +5140,7 @@ div.content {
     }
 
 .section-empty, .footer-parallax-container.bg-color, .footer-parallax-container > .content {
-    background-color: #FFF;
+    background-color: #303030;
     position: relative;
     z-index: 3;
     overflow: hidden;
@@ -5170,7 +5170,7 @@ div.content {
 }
 
 .section-custom {
-    background-color: #FFF;
+    background-color: #303030;
 }
 
 .section-bg-video .videobox {
@@ -5487,11 +5487,11 @@ WHITE
 }
 
 .bg-white, .bg-white.section-two-blocks > .row > div:last-child {
-    background-color: #FFF !important;
+    background-color: #303030 !important;
 }
 
 .white.menu-transparent .collapse {
-    background-color: #FFF;
+    background-color: #303030;
 }
 
 .white .title-base hr {
@@ -5864,7 +5864,7 @@ img.alignright {
             height: 100%;
             left: 0;
             top: 5px;
-            background-color: #efefef;
+            background-color: #303030;
         }
 
 .list-blog > ul > li.cat-item {
@@ -5928,10 +5928,10 @@ footer.entry-meta {
 }
 
 .post-password-form {
-    background: #f5f5f5;
+    background: #303030;
     padding: 30px;
     border-radius: 2px;
-    border: 1px solid #dedede;
+    border: 1px solid #000;
     text-align: center;
     margin-bottom: 30px;
 }
@@ -5945,7 +5945,7 @@ footer.entry-meta {
 
     .post-password-form input[type="password"] {
         border-radius: 3px;
-        border: 1px solid #d4d4d4;
+        border: 1px solid #000;
     }
 
 .hc-classic table, .hc-classic table td, .hc-classic table th, .hc_wp_editor_cnt table, .hc_wp_editor_cnt table td, .hc_wp_editor_cnt table th {
@@ -6093,7 +6093,7 @@ button.navbar-toggle {
     font-size: 25px;
     margin: 2px 5px 0 5px;
     line-height: 23px;
-    color: #4C4C4C;
+    color: #E0E0E0;
 }
 
 .side-menu li.active > ul {
@@ -6110,7 +6110,7 @@ button.navbar-toggle {
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 1px;
-    color: #585858;
+    color: #101010;
     margin: 5px 5px 0 5px;
     float: right;
 }
@@ -6290,7 +6290,7 @@ MENU - RESPONSIVE
 ------------------------------
 */
     .navbar-header {
-        background-color: #FFF;
+        background-color: #303030;
     }
 
     .bg-transparent .navbar-header {
@@ -6312,7 +6312,7 @@ MENU - RESPONSIVE
     .one-page-menu .hamburger-button.active {
         right: 0;
         position: fixed;
-        background: #FFF;
+        background: #101010;
         box-shadow: 0 2px 1px rgba(0,0,0,0.2);
     }
 

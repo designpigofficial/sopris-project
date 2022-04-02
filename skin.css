@@ -32,17 +32,17 @@ COLORS
 .woocommerce .product span.onsale, .circle-button, .btn.circle-button, .btn, .header-bootstrap, .header-title hr, .advs-box.boxed, i.circle, .intro-box:after, .intro-box:before,
 .advs-box-side-img hr, .call-action-box, .title-base hr, .nav.inner.ms-mini, .header-title.white .title-base hr, .header-animation.white .title-base hr,
 .title-base .scroll-top, .title-modern .scroll-top, i.square, .progress-bar, .tagbox span, .niche-box-post .block-infos .block-data {
-    background-color: #5584ff;
+    background-color: #f5c55b;
 }
 
 .navbar-inner .nav.ms-minimal li a:before, .header-base.white, .advs-box-multiple.boxed .advs-box-content, .section-two-blocks.bg-color > .row > div:last-child, .list-items .list-item span {
-    background-color: #5584ff !important;
+    background-color: #f5c55b !important;
 }
 
 .btn:not(.btn-border):hover, .btn-primary:focus, .boxed .btn, .btn-primary.focus, .side-menu .active, .boxed.white .btn,
 .white.circle-button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover,
 .woocommerce input.button.alt:hover, .white .title-base.yellow-bar hr, .img-box.i-center i.fa-play, .white.call-action-box .btn {
-    background-color: #3e6be0 !important;
+    background-color: #ff9015 !important;
 }
 
 i.icon, .fullpage-menu .active i, .navbar-default .navbar-toggle:hover i, .navbar-default .navbar-toggle:focus i, header .side-menu .active > a,
@@ -54,12 +54,12 @@ i.icon, .fullpage-menu .active i, .navbar-default .navbar-toggle:hover i, .navba
 .side-menu i, .side-menu ul a i, .bs-menu li:hover > a, .bs-menu li.active > a, .hamburger-button:hover, .img-box.adv-circle i, .advs-box-side .icon, .advs-box-side-icon i,
 .title-icon i, i, .fullpage-menu.white li.active a i, .timeline > li > .timeline-label h4, .anima-button i, .advs-box-multiple div i,
 .footer-center .footer-title, .accordion-list .list-group-item > a.active, footer a:hover, .block-quote.quote-1:before, .text-muted .block-quote.quote-2:before, .breadcrumb > li + li:before, div .extra-content, .navbar-default .navbar-nav > .active > a {
-    color: #5584ff;
+    color: #f5c55b;
 }
 
 @media (max-width: 994px) {
     .navbar-nav .open .dropdown-menu > li > a[href="#"] {
-        color: #5584ff !important;
+        color: #f5c55b !important;
     }
 }
 
@@ -67,85 +67,85 @@ i.icon, .fullpage-menu .active i, .navbar-default .navbar-toggle:hover i, .navba
 .woocommerce div.product p.price, .woocommerce div.product span.price, .white .text-color, .accordion-list .list-group-item > a:hover, .boxed .circle-button:hover i, .dropdown-menu > li > a:hover,
 .pagination > .active > a, .pagination > li:not(.disabled):hover > a, .boxed .circle-button, header .btn-search:hover, .advs-box h2 a:hover, .nav.ms-minimal > li.active > a,
 header.scroll-css .navbar-default .navbar-nav > .active > a, header.menu-transparent.scroll-css .navbar-default .navbar-nav > li:hover > a, header.menu-transparent.scroll-css .navbar-default .navbar-nav > .active > a, header .navbar-default .navbar-nav > li:hover > a {
-    color: #5584ff !important;
+    color: #f5c55b !important;
 }
 
 .btn-border:hover, .btn.btn-border:hover, .btn.circle-button.btn-border:hover, .tag-row i {
-    color: #3e6be0;
+    color: #ff9015;
 }
 
     .btn-border:hover i, .white .btn i {
-        color: #3e6be0 !important;
+        color: #ff9015 !important;
     }
 
 .btn-color.btn-border, .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .pagination > li:not(.disabled):hover > a i:before {
-    border-color: #5584ff !important;
-    color: #5584ff !important;
+    border-color: #f5c55b !important;
+    color: #f5c55b !important;
 }
 
 .nav.inner.ms-rounded > li > a:hover, .nav.inner.ms-rounded > li.active a, .white .btn:hover, .white .btn, .white .btn:hover {
-    background-color: #5584ff !important;
-    border-color: #5584ff !important;
+    background-color: #f5c55b !important;
+    border-color: #f5c55b !important;
 }
 
     .circle-button, .btn-default, .white .btn:not(.btn-border), .btn-border, .bg-transparent .navbar-nav > li.active > a .caret:before, .bg-transparent .navbar-nav > li:hover > a .caret:before,
     .white .btn-text, .scroll-top-mobile:hover:before, .tab-box.left:not(.pills) .panel-box, .tab-box.right:not(.pills) .panel-box, .tab-box.right .nav-tabs {
-        border-color: #5584ff;
+        border-color: #f5c55b;
     }
 
 .boxed.advs-box-multiple .advs-box-content, .niche-box-post, .extra-content, .quote-author, .border-color, .border-color.boxed-border.boxed-border.white, .timeline > li > .timeline-badge,
 body div.boxed-border.border-yellow {
-    border-color: #5584ff !important;
+    border-color: #f5c55b !important;
 }
 
 .datepicker-top-left, .datepicker-top-right {
-    border-top-color: #5584ff;
+    border-top-color: #f5c55b;
 }
 
     .datepicker-top-left:before, .datepicker-top-right:before {
-        border-bottom-color: #5584ff;
+        border-bottom-color: #f5c55b;
     }
 
 .text-color {
-    color: #3e6be0;
+    color: #ff9015;
 }
 
 .circle-button:hover, .btn:hover {
-    border-color: #3e6be0 !important;
+    border-color: #ff9015 !important;
 }
 
 .btn-text, html .advs-box .btn-text:after, .btn-color.btn-border:hover {
-    color: #3e6be0;
-    border-color: #3e6be0;
+    color: #ff9015;
+    border-color: #ff9015;
 }
 
 body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, .pricing-table .list-group-item, a, .list-items .list-item p, .tab-box .nav-tabs > li > a span, div.caption-bottom p,
 .header-base:not(.white) p, .title-base p, div.title-icon p {
-    color: #8492af;
+    color: #e0e0e0;
 }
 
 .img-box.inner .caption {
-    color: #8492af !important;
+    color: #101010 !important;
 }
 
 header.menu-transparent .navbar-default .navbar-nav > .active > a, header.menu-transparent .navbar-default .navbar-nav > li:hover > a, .white .advs-box h4, .white .navbar-nav > .active > a, .white .navbar-nav > .active > a:hover,
 .white .navbar-nav > .active > a:focus, .white .navbar-nav > .open > a, .white .navbar-nav > .open > a:hover, .white .navbar-nav > .open > a:focus, .white .navbar-nav > li > a:focus,
 .white, .white ul li, .white p, .white .breadcrumb > .active, .white .navbar-nav > li > a, .white .navbar-nav > li > a:hover, .white .dropdown-menu > li > a, footer, footer p, footer li, footer a, footer span, footer .social-group i.circle,
 .white .niche-box-testimonails h5, .white ul.list-texts li b, .pricing-table .pricing-price span:last-child, footer .social-group i {
-    color: #9daac7 !important;
+    color: #19626b !important;
 }
 
 
     .white .accordion-list .list-group-item > a:before, footer .social-group i.circle, .table > tbody > tr > th, .table > tbody > tr > td, .table > thead > tr > th {
-        border-color: #9daac7 !important;
+        border-color: #19626b !important;
     }
 
 .social-group i.circle, .social-button i.circle, .nav.inner.ms-rounded li a {
-    border-color: #9daac7;
+    border-color: #19626b;
 }
 
 header.menu-transparent .nav .caret:before, footer .tag-row span {
-    border-color: #8492af;
+    border-color: #00af9a;
 }
 
 .btn-border {
@@ -154,35 +154,35 @@ header.menu-transparent .nav .caret:before, footer .tag-row span {
 
 .section-bg-color, .bg-color-2, header.bg-color-2 .navbar-main, .navbar-mini, .header-base:not(.bg-cover), [class*="col-md-"].boxed-inverse, .boxed-inverse, .fixed-area.boxed-inverse, .form-box .form-control, .form-inline, .tab-box .nav-tabs > li.active > a,
 .tab-box .nav-tabs > li:hover > a, .table-striped > tbody > tr:nth-of-type(odd), .section-two-blocks > .row > div:last-child, .advs-box.boxed-inverse:not(.shadow-1), .header-base {
-    background-color: #f4f9fe;
+    background-color: #303030;
 }
 
 .block-quote.quote-2:after {
-    color: #e2e8ee;
+    color: #303030;
 }
 
 btn-border, .btn.btn-border, .btn.circle-button.btn-border, h1, h2, .box-pin h3, .pricing-table h3, .pricing-table .list-group-item.pricing-price, .pricing-table .list-group-item.pricing-price span,
 .niche-box-testimonails-cloud .name-box .subtitle, .icon-box label, .advs-box-multiple div.circle, .box-steps .step-item > h3, .adv-img-down-text h2 a, .counter-box-simple.text-color span + span,
 .list-items .list-item h3, tab-box .nav-tabs > li.active > a, .counter-circle, ul.list-texts li b, .nav.ms-minimal li a, .nav.inner.ms-rounded li a, .text-color-2, .list-blog p, .tag-row span, .tag-row a,
 .niche-box-post h2 a, .list-blog h5, .block-title a, .block-infos p.bd-day, .comment-list .name, .countdown .countdown-values, .niche-box-testimonails h5, .author a, .maso-order i, .panel-default > .panel-heading {
-    color: #0e1a35;
+    color: #ff9015;
 }
 
 .advs-box h3, .advs-box h2, h4, .breadcrumb > li:before {
-    color: #0e1a35 !important;
+    color: #ff9015 !important;
 }
 
 footer, .flex-control-paging li a:hover, .bg-color {
-    background-color: #0e1a35 !important;
+    background-color: #ff9015 !important;
 }
 
 .flex-control-paging li a.flex-active, .header-slider .flex-control-paging li a.flex-active, .input-group-btn .btn, .btn.btn-primary:hover {
-    border-color: #0e1a35;
-    background-color: #0e1a35;
+    border-color: #ff9015;
+    background-color: #ff9015;
 }
 
 .flex-control-paging li a, .header-slider .flex-control-paging li a, body div .flexslider .flex-direction-nav a, div.flexslider .flex-direction-nav li a:before {
-    border-color: #0e1a35;
+    border-color: #ff9015;
 }
 
 .white.btn, .white .btn, .white .tag-row a, .header-bootstrap i.icon, .white .tag-row i, .white .advs-box-content h2 a, .white.advs-box-side-img h2 a, .advs-box-side-icon.boxed .icon-box i,
@@ -200,16 +200,16 @@ footer, .flex-control-paging li a:hover, .bg-color {
 .section-bg-image .advs-box.boxed-inverse, .white .flex-control-paging li a:hover, .adv-img-down-text.boxed-inverse:hover, .advs-box-multiple div.circle, .list-blog input, .list-blog select,
 .section-bg-image [class*="col-md-"].boxed-inverse, [class*="shadow-"].boxed-inverse, .sidebar-nav ul ul, .base-box.boxed, .base-box.boxed-inverse, .advs-box.boxed-inverse, .section-bg-color .form-box .form-control,
 .boxed-inverse:not(.shadow-1) .form-box, .boxed-inverse:not(.shadow-1) .form-box .form-control, .section-two-blocks .form-box .form-control, .section-bg-color .advs-box.boxed-inverse {
-    background-color: #fff;
+    background-color: #303030;
 }
 
 header .side-menu .active, .white.btn:not(.btn-border), .white:not([class*="header-"]) .title-base hr, .bg-white, .white .flex-control-paging li a:hover {
-    background-color: #fff !important;
+    background-color: #303030 !important;
 }
 
 .white .flex-control-paging li a.flex-active, .white.btn {
     border-color: #fff;
-    background-color: #fff !important;
+    background-color: #303030 !important;
 }
 
     .white .pagination li > a i:before, .boxed-border.white, .boxed-border.boxed-border.white, .btn.white:hover, .btn.white, .boxed .btn-text,
@@ -813,7 +813,7 @@ header.scroll-css .navbar-nav > li > .dropdown-menu {
 }
 
 .mega-tabs .nav-tabs {
-    background: #fff;
+    background: #303030;
     border-bottom: 1px solid #e8e8e8;
 }
 
@@ -826,7 +826,7 @@ header.scroll-css .navbar-nav > li > .dropdown-menu {
 }
 
     .mega-tabs .nav-tabs, .mega-tabs .tab-box .nav-tabs > li.active > a {
-        background-color: #fff;
+        background-color: #303030;
     }
 
     .mega-tabs .tab-box .nav-tabs > li > a {
@@ -1008,7 +1008,7 @@ div[class*=header-]:not(.full-screen-title):not(.header-base) {
 }
 
 [class*=header-]:not(.white):after {
-    background-color: #fff;
+    background-color: #303030;
 }
 
 div.section-bg-animation {
@@ -1128,7 +1128,7 @@ COMPONENTS
         max-width: 360px;
         min-width: 100px;
         background: none;
-        background-color: #fff !important;
+        background-color: #101010 !important;
         text-shadow: none;
         color: #000;
         font-size: 15px;
@@ -1548,7 +1548,7 @@ div.adv-img p {
 
     .niche-box-testimonails-cloud p {
         text-align: left;
-        background: #fff;
+        background: #303030;
         box-shadow: 0 0 15px rgba(0, 0, 0, 0.12);
     }
 
@@ -1822,7 +1822,7 @@ ul li .fa-li.fa-square {
     }
 
     .pricing-table .list-group-item:nth-child(even) {
-        background-color: #fff;
+        background-color: #303030;
     }
 
     .pricing-table h3 {
@@ -1943,7 +1943,7 @@ ul li .fa-li.fa-square {
 
 .timeline > li > .timeline-badge {
     border-width: 2px;
-    background: #fff;
+    background: #303030;
 }
 
 .timeline > li {
@@ -2143,7 +2143,7 @@ div div.flexslider li .shadow-1 {
     opacity: 1;
     width: 70px;
     height: 70px;
-    background-color: #fff;
+    background-color: #303030;
     border-radius: 50%;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
     text-align: center;
@@ -2170,7 +2170,7 @@ div div.flexslider li .shadow-1 {
     height: 18px;
     top: 50%;
     margin-right: 15px;
-    background: #fff;
+    background: #303030;
     border-top-width: 1px;
     border-right-width: 1px;
 }
@@ -2188,7 +2188,7 @@ div div.flexslider li .shadow-1 {
 }
 
 .fixed-area.active .nav.inner.ms-rounded li a {
-    background: #fff;
+    background: #303030;
     box-shadow: 0 3px 10px hsla(0, 0%, 0%, 0.22);
     transition: box-shadow .3s;
 }
@@ -2306,7 +2306,7 @@ RESPONSIVE
     }
 
     .menu-transparent .navbar-collapse {
-        background-color: #fff;
+        background-color: #303030;
     }
 
     header.menu-transparent .navbar-default .navbar-nav > .active > a, header.menu-transparent .navbar-default .navbar-nav > li:hover > a, header.bg-transparent .navbar-default .navbar-nav > li > a {
